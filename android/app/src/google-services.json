@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "315920259225",
+    "project_id": "shopping-5ef18",
+    "storage_bucket": "shopping-5ef18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315920259225:android:3cf6d641cf5f2c92ab4008",
+        "android_client_info": {
+          "package_name": "com.baabtra.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315920259225-fung22m1q34r8p4hs1gfebdva2jusg61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_zlaQd9oK5r2hRXbbAt2IQi5ok3SJUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315920259225-fung22m1q34r8p4hs1gfebdva2jusg61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315920259225:android:2baed24260491220ab4008",
+        "android_client_info": {
+          "package_name": "com.example.baabtra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315920259225-fung22m1q34r8p4hs1gfebdva2jusg61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_zlaQd9oK5r2hRXbbAt2IQi5ok3SJUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315920259225-fung22m1q34r8p4hs1gfebdva2jusg61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
