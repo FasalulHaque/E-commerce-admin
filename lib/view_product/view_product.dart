@@ -51,7 +51,7 @@ class viewProduct extends StatelessWidget {
           ),
         ],
       ),
-      body: StreamBuilder<QuerySnapshot>(
+      body: StreamBuilder<QuerySnapshot>( 
         stream: AddRef.where('user_id', isEqualTo: _auth.currentUser!.uid)
             .snapshots(),
         builder: (context, AsyncSnapshot<QuerySnapshot> snapshot) {
@@ -60,7 +60,7 @@ class viewProduct extends StatelessWidget {
             print(snapshot.data!.docs);
             // ignore: unused_local_variable, non_constant_identifier_names
             final Additems = snapshot.data!.docs;
-            // print(Additems[0]['product_name']);    
+            // print(Additems[0]['product_name']);
             return SingleChildScrollView(
               child: GridView.builder(
                   physics: NeverScrollableScrollPhysics(),
